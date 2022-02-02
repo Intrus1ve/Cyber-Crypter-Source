@@ -1,0 +1,14 @@
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber Crypter Private.vbproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmPrivate.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmDownload.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmError.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmMessage.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmSelect.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.frmSplash.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber Crypter Private.vbproj.GenerateResource.cache
+C:\Users\hasan\Desktop\New_folder\obj\x64\Debug\Cyber Crypter Private.vbproj.CoreCompileInputs.cache

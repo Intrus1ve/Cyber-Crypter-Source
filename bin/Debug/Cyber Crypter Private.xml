@@ -1,0 +1,119 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cyber Crypter Private
+</name>
+</assembly>
+<members>
+<member name="T:Cyber_Crypter_Private.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources._New">
+<summary>
+  Looks up a localized string similar to using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Net;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Drawing;
+using System.Security.Cryptography;
+using System.IO;
+using System.Text;
+using System.Data.OleDb;
+using Microsoft.Win32;
+using Microsoft.VisualBasic.CompilerServices;
+using System.Threading;
+
+//Default [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources._Private">
+<summary>
+  Looks up a localized string similar to using System;
+using System.IO;
+using System.IO.Compression;
+using Microsoft.VisualBasic;
+using System.Threading;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Windows.Forms;
+using Microsoft.Win32;
+using System.Diagnostics;
+using System.Drawing;
+using System.Net;
+using System.Text;
+using System.Net.NetworkInformation;
+using System.Net.Sockets;
+using Microsoft.VisualBasic.CompilerServices;
+using System.Collections.Generic;
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources.cert">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources.config">
+<summary>
+  Looks up a localized string similar to &lt;project outputDir=&quot;%path%&quot; baseDir=&quot;%basedir%&quot; xmlns=&quot;http://confuser.codeplex.com&quot;&gt;
+  &lt;rule pattern=&quot;true&quot; inherit=&quot;false&quot;&gt;
+        &lt;protection id=&quot;anti tamper&quot; /&gt;
+      &lt;/rule&gt;
+  &lt;module path=&quot;%stub%&quot;&gt;
+    &lt;rule pattern=&quot;true&quot; preset=&quot;none&quot; /&gt;
+  &lt;/module&gt;
+&lt;/project&gt;.
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources.ConfuserEx">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Cyber_Crypter_Private.My.Resources.Resources.Stub">
+<summary>
+  Looks up a localized string similar to using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Net;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Drawing;
+using System.Security.Cryptography;
+using System.IO;
+using System.Text;
+using System.Data.OleDb;
+using Microsoft.Win32;
+using Microsoft.VisualBasic.CompilerServices;
+using System.Threading;
+
+//Default [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

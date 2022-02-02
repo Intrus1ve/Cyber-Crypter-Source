@@ -1,0 +1,230 @@
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.exe.config
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.Resources.resources
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.exe
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.pdb
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.xml
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\bin\Debug\Guna.UI.dll
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.exe
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.xml
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.pdb
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+c:\users\amd ryzen 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\AMD RYZEN 3\Desktop\FREE\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber Crypter Private.exe
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber Crypter Private.xml
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\AMD RYZEN 3\Desktop\FREE\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\AMD RYZEN 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\AMD RYZEN 3\documents\visual studio 2012\Projects\Cyber Crypter Private\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmControl.resources
+C:\Program Files\App\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.exe.config
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.exe
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.xml
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.pdb
+C:\Program Files\App\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.exe
+C:\Program Files\App\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.pdb
+C:\Program Files\App\Cyber Crypter Private\bin\Debug\Cyber Crypter Private.xml
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmControl.resources
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Program Files\App\Cyber Crypter Private\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\Cyber\Cyber Private Users\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Cyber Private Users\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Cyber Private Users\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Cyber Private Users\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Cyber\Cyber Private Users\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\Cyber\Desktop\New folder\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\New folder\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\New folder\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\New folder\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\Cyber\Desktop\Sara\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\Sara\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\Sara\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\Sara\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Cyber\Desktop\Sara\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\Cyber\Sara\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Cyber\Sara\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Sara\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Sara\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Sara\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Sara\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Sara\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Sara\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Cyber\Sara\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Cyber\Sara\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Cyber\Sara\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Cyber\Sara\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Cyber\Sara\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\Cyber\Desktop\Free\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\Free\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\Free\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\Free\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Cyber\Desktop\Free\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber Crypter Private.vbprojAssemblyReference.cache
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.cache
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber Crypter Private.vbproj.CoreCompileInputs.cache
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Armut\source\repos\TRRTR\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Armut\source\repos\TRRTR\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Armut\source\repos\TRRTR\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Armut\source\repos\TRRTR\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Armut\source\repos\TRRTR\obj\Debug\Cyber Crypter Private.vbproj.CopyComplete
+C:\Users\Cyber\Desktop\TRRTR\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\TRRTR\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\TRRTR\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\TRRTR\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Cyber\Desktop\TRRTR\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Cyber\Desktop\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Program Files\App\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.exe.config
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.exe
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.xml
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.pdb
+C:\Program Files\App\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.exe
+C:\Program Files\App\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.pdb
+C:\Program Files\App\New Update\Socket Cyber Crypter\bin\Debug\Cyber Crypter Private.xml
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmMessage.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmSelect.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmError.resources
+C:\Program Files\App\New Update\Socket Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmDownload.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\bin\Debug\Cyber Crypter Private.exe.config
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber Crypter Private.exe
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber Crypter Private.xml
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber Crypter Private.pdb
+C:\Program Files\App\Private Crypter For Cyber Crypter\bin\Debug\Cyber Crypter Private.exe
+C:\Program Files\App\Private Crypter For Cyber Crypter\bin\Debug\Cyber Crypter Private.pdb
+C:\Program Files\App\Private Crypter For Cyber Crypter\bin\Debug\Cyber Crypter Private.xml
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmDownload.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmError.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmMessage.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmSelect.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.Cache
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmPrivate.resources
+C:\Program Files\App\Private Crypter For Cyber Crypter\obj\Debug\Cyber_Crypter_Private.frmSplash.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmPrivate.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmDownload.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmError.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmMessage.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmSelect.resources
+C:\Users\Cyber\Desktop\New folder\obj\Debug\Cyber_Crypter_Private.frmSplash.resources
+C:\Users\Administrator\Desktop\New_folder\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\Administrator\Desktop\New_folder\bin\Debug\Cyber Crypter Private.exe
+C:\Users\Administrator\Desktop\New_folder\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\Administrator\Desktop\New_folder\bin\Debug\Cyber Crypter Private.xml
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmPrivate.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmDownload.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmError.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmMessage.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmSelect.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmSplash.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber Crypter Private.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber Crypter Private.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber Crypter Private.exe
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber Crypter Private.xml
+C:\Users\Administrator\Desktop\New_folder\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\hasan\Desktop\New_folder\bin\Debug\Cyber Crypter Private.exe.config
+C:\Users\hasan\Desktop\New_folder\bin\Debug\Cyber Crypter Private.exe
+C:\Users\hasan\Desktop\New_folder\bin\Debug\Cyber Crypter Private.pdb
+C:\Users\hasan\Desktop\New_folder\bin\Debug\Cyber Crypter Private.xml
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmAssembly.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmPrivate.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmDownload.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmError.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmLogin.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmMain.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmMessage.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmSelect.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmSettings.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.frmSplash.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber_Crypter_Private.Resources.resources
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber Crypter Private.vbproj.GenerateResource.cache
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber Crypter Private.vbproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber Crypter Private.vbproj.CopyComplete
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber Crypter Private.exe
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber Crypter Private.xml
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber Crypter Private.pdb
+C:\Users\hasan\Desktop\New_folder\obj\Debug\Cyber Crypter Private.vbproj.AssemblyReference.cache
